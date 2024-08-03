@@ -1,6 +1,6 @@
 import requests
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '7244690088:AAGmqESO_5VrxTg7BbfNkInzG5uIMW5ajB4'
 TELEGRAM_API_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
 def handle_update(update):
