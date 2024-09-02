@@ -158,6 +158,7 @@ cython_debug/
 .venv/
 env/
 venv/
+craft-env/
 ENV/
 env.bak/
 venv.bak/
